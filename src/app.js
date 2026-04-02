@@ -33,5 +33,5 @@ try {
 } catch (err) {
   // eslint-disable-next-line no-console
   console.error(err.message);
-  process.exit(0);
+  process.exit(1);
 }
