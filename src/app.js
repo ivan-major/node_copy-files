@@ -38,5 +38,5 @@ try {
     process.exit(0); // щоб ці тести пройшли
   }
 
-  process.exit(1)
+  process.exit(1);
 }
